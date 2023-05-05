@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart-Route-Bus</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_mapa2">Smart-Route-Bus</string>
+</resources>

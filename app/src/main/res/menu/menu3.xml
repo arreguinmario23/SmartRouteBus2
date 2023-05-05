@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnMore"
+        android:icon="@drawable/ic_more"
+        android:title="Mas"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/mapa"
+                android:icon="@drawable/ic_registro"
+                android:title="Mostrar Mapa"
+                />
+            <item
+                android:id="@+id/alarma"
+                android:icon="@drawable/ic_users"
+                android:title="Alertas" />
+            <item
+                android:id="@+id/choferes"
+                android:icon="@drawable/ic_users"
+                android:title="Choferes" />
+            <item
+                android:id="@+id/agregar"
+                android:icon="@drawable/ic_users"
+                android:title="Agregar Chofer" />
+            <item
+                android:id="@+id/Salir"
+                android:icon="@drawable/ic_close"
+                android:title="Cerrar Sesion"/>
+        </menu>
+    </item>
+</menu>

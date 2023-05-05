@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261066470737",
+    "project_id": "smart-route-bus-2395b",
+    "storage_bucket": "smart-route-bus-2395b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261066470737:android:b118bd411c751e1ceecf70",
+        "android_client_info": {
+          "package_name": "mx.tecnm.cdhidalgo.smart_route_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261066470737-bcrbaur6e2b18lr1kraelkkokmq67seu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxleiPq0KZDUnnD9kXkpBKEQXd8_gdfVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261066470737-bcrbaur6e2b18lr1kraelkkokmq67seu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
